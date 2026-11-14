@@ -1,13 +1,13 @@
 # Detecção de Movimento em Videomonitoramento — CDnet 2014 *pedestrians*
 
-Trabalho de Processamento de Imagens com OpenCV — **Tema 3, Combinação 11** (sequência `pedestrians`, categoria Baseline do CDnet 2014).
+Trabalho de Processamento de Imagens com OpenCV.
 
 O sistema separa as regiões em movimento do fundo da cena, desenha caixas delimitadoras sobre os pedestres e gera uma série temporal da atividade. São comparadas duas abordagens: diferença entre frames consecutivos e um modelo temporal de fundo com atualização progressiva, implementado pelo grupo.
 
 ## Integrantes
 
-- [Nome 1]
-- [Nome 2]
+- Lucas Carreño
+- Melissa Pizzato
 
 ## Requisitos
 
